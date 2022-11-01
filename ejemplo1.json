@@ -1,0 +1,27 @@
+{
+  {
+    "Nombre": "Carlos",
+    "Apellido": "Perez",
+    "Edad": 19
+  }
+  {
+    "Nombre": "Juan",
+    "Apellido": "Diaz",
+    "Edad": 25
+  }
+  {
+    "Nombre": "Lucas",
+    "Apellido": "Alvarez",
+    "Edad": 40
+  }
+  {
+    "Nombre": "Felipe",
+    "Apellido": "Restrepo",
+    "Edad": 20
+  }
+  {
+    "Nombre": "Santiago",
+    "Apellido": "Benitez",
+    "Edad": 21
+  }
+}
