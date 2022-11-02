@@ -2,26 +2,36 @@
   {
     "Nombre": "Carlos",
     "Apellido": "Perez",
+    "Carrera": "Mecatronica",
+    "Semestre":  "2",
     "Edad": 19
   },
   {
     "Nombre": "Juan",
     "Apellido": "Diaz",
+    "Carrera": "Diseño gráfico",
+    "Semestre": "4",
     "Edad": 25
   },
   {
     "Nombre": "Lucas",
     "Apellido": "Alvarez",
-    "Edad": 40
+    "Carrera": "Ing. industrial",
+    "Semestre": "3",
+    "Edad": 30
   },
   {
     "Nombre": "Felipe",
     "Apellido": "Restrepo",
+    "Carrera": "Ing. electronica",
+    "Semestre": "1",
     "Edad": 20
   },
   {
     "Nombre": "Santiago",
     "Apellido": "Benitez",
+    "Carrera": "Diseño moda",
+    "Semestre": "5",
     "Edad": 21
   }
 ]
